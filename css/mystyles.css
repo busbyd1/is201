@@ -5,3 +5,19 @@ h1{
 .diff-bg{
     background-color: navy !important;
 }
+
+.subheading{
+    color: maroon;
+}
+
+:root{
+    --bs-link-color: tan;
+    --bs-link-hover-color: rgb(169, 141, 103);
+    --bs-primary-rgb: 210, 180, 140;
+}
+
+.social-icons .social-icon:hover {
+    background-color: navy;
+  }
+
+  
